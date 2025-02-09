@@ -1,0 +1,7 @@
+To run the project you have to install the libraries which is required 
+then 
+type on cmd 
+
+streamlit run fileName.py
+OG file is client.py
+ 
